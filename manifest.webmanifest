@@ -1,0 +1,12 @@
+{
+  "name": "Nitro Rush 100",
+  "short_name": "Nitro Rush",
+  "description": "A mobile-first 3D endless car runner.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07101c",
+  "theme_color": "#08111e",
+  "icons": []
+}
